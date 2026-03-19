@@ -1,0 +1,249 @@
+input,output
+generate exam question,"discuss the importance of third party auditor to ensure security in cce, with the help of appropriate diagram."
+generate exam question,discuss the advantages of virtualization in cce.
+generate exam question,what do you mean by compute virtualization?
+generate exam question,discuss the types of compute virtualization with appropriate diagram.
+generate exam question,discuss the challenges of cloud computing environment.
+generate exam question,discuss different methods of resource provisioning and platform deployment in detail with a neat diagram.
+generate exam question,discuss the difference between full virtualization and paravirtualization.
+generate exam question,compare and contrast on the iaas services provided by aws and microsoft azure.
+generate exam question,present a comparative analysis to suggest which service provider is useful for novice users.
+generate exam question,what are the steps involved in auditing outsourcing life cycle? explain it briefly.
+generate exam question,what are the advantages and challenges in terms of reliability and availability of cloud?
+generate exam question,compare various task scheduling techniques in cloud environment?
+generate exam question,explain nist architecture of cloud.
+generate exam question,define cloud services with example.
+generate exam question,"compare and contrast between parallel computing, distributed computing and cloud computing."
+generate exam question,prepare a case study to mention the current challenges existing in 'e-governance system' and the role of cloud computing to address these challenges.
+generate exam question,what is migration in cloud? compare various types of migration techniques supported by cloud environment.
+generate exam question,analyze the impact of shared resources and multi-tenancy on cloud app?
+generate exam question,what are the characteristics of cloud scheduling algorithms.
+generate exam question,briefly describe the early technologies that influenced the development of cloud-based businesses.
+generate exam question,what is the main benefit of using mobile computing in cloud environments?
+generate exam question,briefly describe one popular infrastructure-as-a-service (iaas) provider other than amazon web services (aws).
+generate exam question,briefly describe the architecture of cloud on the basis of virtual switches load balancing.
+generate exam question,briefly describe the ec2 feature in aws.
+generate exam question,what are the main benefits of using load balancing in cloud environments?
+generate exam question,give an example of a software-as-a-service (saas) application that you use regularly.
+generate exam question,briefly describe one popular hypervisor used in virtualization.
+generate exam question,briefly describe the cloud issues and challenges faced in e-governance.
+generate exam question,what is vm provisioning? briefly describe its process.
+generate exam question,"discuss the key differences among private, public, hybrid, and community cloud models."
+generate exam question,what is a hybrid cloud? how can hybrid clouds help enterprises?
+generate exam question,describe the notion of elasticity within cloud computing and highlight how it differs from scalability.
+generate exam question,what are the main reasons for the necessity of cloud computing?
+generate exam question,briefly describe the nist characteristics of cloud computing.
+generate exam question,list out the actors of the cloud computing environment.
+generate exam question,compare and contrast cloud computing with traditional on-premises computing models.
+generate exam question,"what are the benefits of using cloud computing, and how has it impacted the it industry?"
+generate exam question,how does scalability enhances the features of cloud computing infrastructure?
+generate exam question,distributed computing is a better option for banking services. justify the statement.
+generate exam question,state a real life example where an infrastructure-as-a-service is used.
+generate exam question,define xen hypervisor.
+generate exam question,state at least two advantages of multi-tenancy in cloud computing.
+generate exam question,discuss the application of cloud computing in health sector.
+generate exam question,state the category of ip hash method in load balancing.
+generate exam question,how is microsoft azure different from other cloud provider?
+generate exam question,differentiate the advantages and disadvantages of a distributed system with a centralized system.
+generate exam question,define cluster computing and its different types.
+generate exam question,differentiate between single-tenant and multi-tenant architecture in cloud environment.
+generate exam question,what is hardware virtualization and how many types of hardware virtualization are there?
+generate exam question,what are the implications of cloud computing on the traditional it infrastructure?
+generate exam question,what are the nist characteristics of cloud computing?
+generate exam question,what are the characters existing in the cloud computing environment?
+generate exam question,what is server consolidation? describe the architecture of server consolidation with suitable diagram.
+generate exam question,what is the primary characteristic that differentiates cloud computing from traditional hosting?
+generate exam question,differentiate between horizontal and vertical scaling.
+generate exam question,briefly explain the concept of a virtual machine in cloud computing.
+generate exam question,what is the potential issue related to downtime in cloud services and how can it impact businesses?
+generate exam question,discuss the importance of auto-scaling in cloud environment.
+generate exam question,explain the significance of sla in ensuring service quality and accountability.
+generate exam question,differentiate between full virtualization and para-virtualization.
+generate exam question,how does mobile cloud computing improve resource utilization in mobile devices?
+generate exam question,list out the tools for cloud usage monitoring.
+generate exam question,compare synchronous replication and asynchronous replication.
+generate exam question,"if full virtualization allows running unmodified operating systems, why isn't it always preferred over para-virtualization?"
+generate exam question,discuss the various components of sensor–cloud integration framework with appropriate diagram.
+generate exam question,compare cloud computing with mobile cloud computing with respect to the following characteristics: 1.service consumers 2.service providers 3.objectives
+generate exam question,list out the various security and privacy issues in cce.
+generate exam question,"discuss the importance of third party auditor to ensure security in cce, with the help of appropriate diagram."
+generate exam question,discuss the importance of vm lifecycle model in cce.
+generate exam question,explain the role of physical to virtual machine (p2v) conversion in vm lifecycle model with appropriate diagram.
+generate exam question,explain the components of p2v converter application in details.
+generate exam question,define cloud computing.
+generate exam question,what is virtualization in cloud computing?
+generate exam question,define infrastructure as a service (iaas) with example.
+generate exam question,what is platform as a service (paas)?define software as a service (saas) with example.
+generate exam question,what is a hypervisor?
+generate exam question,define virtual machine (vm).
+generate exam question,what is multi-tenancy in cloud computing?what is cloud migration?
+generate exam question,define elasticity in cloud computing.
+generate exam question,what is scalability in cloud infrastructure?
+generate exam question,what is load balancing in cloud environments?
+generate exam question,define auto-scaling in cloud computing.
+generate exam question,what is server consolidation?
+generate exam question,define cloud resource provisioning.
+generate exam question,what is vm provisioning?
+generate exam question,define distributed computing.
+generate exam question,define cluster computing.
+generate exam question,what is parallel computing?
+generate exam question,what is hybrid cloud?
+generate exam question,what is private cloud?
+generate exam question,what is public cloud?
+generate exam question,what is community cloud?
+generate exam question,define service level agreement (sla).
+generate exam question,what is cloud monitoring?
+generate exam question,define synchronous replication.
+generate exam question,define asynchronous replication.
+generate exam question,what is xen hypervisor?
+generate exam question,what is mobile cloud computing?
+generate exam question,what is ip hash load balancing?
+generate exam question,define vm lifecycle model.
+generate exam question,what is physical to virtual (p2v) migration?
+generate exam question,what is cloud security auditing?
+generate exam question,define third party auditor in cloud computing.
+generate exam question,what is cloud storage?
+generate exam question,what are cloud service providers?
+generate exam question,define containerization in cloud computing.
+generate exam question,what is resource pooling in cloud computing?
+generate exam question,define cloud orchestration.
+generate exam question,what is fault tolerance in cloud computing?
+generate exam question,discuss the architecture of cloud computing with a neat diagram.
+generate exam question,explain the nist reference architecture for cloud computing.
+generate exam question,discuss the major characteristics of cloud computing according to nist.
+generate exam question,explain the advantages of virtualization in cloud computing.
+generate exam question,describe the different types of virtualization used in cloud environments.
+generate exam question,explain the architecture of a virtual machine with suitable diagram.
+generate exam question,discuss the advantages and disadvantages of cloud computing.
+generate exam question,explain the various deployment models of cloud computing in detail.
+generate exam question,discuss the differences between public cloud and private cloud models.
+generate exam question,explain the concept of hybrid cloud architecture.
+generate exam question,"compare and contrast iaas, paas, and saas models."
+generate exam question,discuss the role of virtualization in resource optimization in cloud computing.
+generate exam question,explain the concept of vm lifecycle management in cloud computing.
+generate exam question,explain the process of virtual machine provisioning.
+generate exam question,explain the steps involved in migrating applications to the cloud.
+generate exam question,discuss the benefits of auto-scaling in cloud environments.
+generate exam question,explain the concept of load balancing and its types in cloud computing.
+generate exam question,discuss different scheduling algorithms used in cloud computing.
+generate exam question,explain the concept of task scheduling in cloud environments.
+generate exam question,discuss the challenges faced in cloud computing environments.
+generate exam question,explain the impact of multi-tenancy on cloud application performance.
+generate exam question,discuss the importance of service level agreements (sla) in cloud computing.
+generate exam question,explain the role of third party auditors in ensuring cloud security.
+generate exam question,discuss the security issues in cloud computing environments.
+generate exam question,explain the privacy challenges in cloud computing systems.
+generate exam question,discuss the concept of server consolidation using virtualization.
+generate exam question,explain the architecture of sensor-cloud integration framework.
+generate exam question,discuss the advantages of mobile cloud computing.
+generate exam question,explain how cloud computing supports e-governance systems.
+generate exam question,discuss the role of cloud computing in healthcare applications.
+generate exam question,explain the architecture of distributed computing systems.
+generate exam question,discuss the advantages of distributed computing over centralized systems.
+generate exam question,explain the concept of cluster computing with examples.
+generate exam question,compare distributed computing and cloud computing.
+generate exam question,discuss the architecture of aws cloud services.
+generate exam question,explain the major features of amazon ec2.
+generate exam question,discuss the infrastructure services provided by microsoft azure.
+generate exam question,compare aws and microsoft azure cloud platforms.
+generate exam question,explain the process of resource allocation in cloud environments.
+generate exam question,discuss the importance of monitoring tools in cloud computing.
+generate exam question,explain the different types of cloud storage services.
+generate exam question,discuss the role of hypervisors in virtualization.
+generate exam question,compare full virtualization and para-virtualization.
+generate exam question,explain the advantages and limitations of para-virtualization.
+generate exam question,discuss the importance of scalability in cloud infrastructure.
+generate exam question,explain the role of replication in cloud data storage.
+generate exam question,compare synchronous and asynchronous replication techniques.
+generate exam question,discuss the importance of fault tolerance in cloud computing.
+generate exam question,explain the process of physical to virtual (p2v) conversion.
+generate exam question,discuss the architecture of p2v converter applications.
+generate exam question,explain how cloud computing improves it infrastructure efficiency.
+generate exam question,discuss the challenges of implementing cloud computing in enterprises.
+generate exam question,explain the benefits of cloud computing for small businesses.
+generate exam question,discuss the role of cloud computing in big data analytics.
+generate exam question,explain the concept of edge computing and its relationship with cloud computing.
+generate exam question,discuss the importance of containerization in modern cloud platforms.
+generate exam question,explain the role of kubernetes in cloud environments.
+generate exam question,discuss the future trends in cloud computing technologies.
+generate exam question,explain the importance of cloud security frameworks.
+generate exam question,discuss the impact of cloud computing on modern it industry.
+generate exam question,explain the concept of resource pooling in cloud computing and discuss its advantages.
+generate exam question,how does resource pooling improve efficiency in cloud environments?
+generate exam question,discuss the role of resource pooling in multi-tenant cloud architecture.
+generate exam question,explain how resource pooling enables better resource utilization in cloud infrastructure.
+generate exam question,discuss the importance of resource pooling in infrastructure as a service (iaas).
+generate exam question,explain the concept of load balancing in cloud computing with suitable examples.
+generate exam question,discuss the advantages of load balancing in distributed cloud systems.
+generate exam question,explain the different types of load balancing techniques used in cloud environments.
+generate exam question,how does load balancing improve performance and reliability in cloud infrastructure?
+generate exam question,discuss the role of load balancing in handling high traffic in cloud applications.
+generate exam question,explain the concept of dynamic load balancing in cloud computing.
+generate exam question,discuss the difference between static and dynamic load balancing techniques.
+generate exam question,explain how load balancing contributes to fault tolerance in cloud computing.
+generate exam question,discuss the architecture of a load balancing system in cloud infrastructure.
+generate exam question,explain the role of load balancers in maintaining high availability in cloud systems.
+generate exam question,discuss the importance of scalability in cloud computing environments.
+generate exam question,explain how cloud computing supports elastic resource allocation.
+generate exam question,discuss the relationship between scalability and elasticity in cloud systems.
+generate exam question,explain how cloud computing improves resource utilization in large-scale applications.
+generate exam question,discuss the role of virtualization in enabling cloud resource management.
+generate exam question,explain how virtualization supports dynamic resource allocation in cloud computing.
+generate exam question,discuss the advantages of cloud-based load balancing over traditional load balancing.
+generate exam question,explain the role of monitoring tools in managing cloud resources effectively.
+generate exam question,discuss the challenges involved in resource management in cloud computing.
+generate exam question,explain the importance of automated scaling in modern cloud infrastructure.
+generate exam question,discuss the benefits of auto-scaling combined with load balancing in cloud environments.
+generate exam question,explain how cloud platforms ensure efficient resource distribution among users.
+generate exam question,discuss the impact of resource pooling on cost optimization in cloud services.
+generate exam question,explain the role of orchestration tools in managing cloud workloads.
+generate exam question,discuss the importance of traffic management in cloud-based applications.
+generate exam question,explain the concept of resource pooling in cloud computing.
+generate exam question,discuss the importance of resource pooling in multi-tenant cloud environments.
+generate exam question,how does resource pooling help in efficient utilization of cloud resources?
+generate exam question,explain how cloud service providers implement resource pooling.
+generate exam question,discuss the advantages of resource pooling in large scale cloud infrastructure.
+generate exam question,explain the role of virtualization in enabling resource pooling.
+generate exam question,discuss the relationship between resource pooling and elasticity in cloud computing.
+generate exam question,explain the concept of load balancing in cloud computing.
+generate exam question,discuss the benefits of load balancing in distributed cloud environments.
+generate exam question,explain the difference between static load balancing and dynamic load balancing.
+generate exam question,discuss the importance of load balancing for high availability in cloud systems.
+generate exam question,explain how load balancing improves performance in cloud applications.
+generate exam question,discuss the architecture of load balancing in cloud computing.
+generate exam question,explain how load balancing helps in managing high traffic in cloud systems.
+generate exam question,discuss different load balancing algorithms used in cloud environments.
+generate exam question,explain the role of dns-based load balancing in cloud infrastructure.
+generate exam question,discuss the advantages of using load balancers in cloud data centers.
+generate exam question,explain the working principle of round robin load balancing algorithm.
+generate exam question,discuss the role of auto-scaling in maintaining performance in cloud environments.
+generate exam question,explain the relationship between load balancing and auto-scaling.
+generate exam question,discuss how load balancing contributes to fault tolerance in cloud computing.
+generate exam question,explain the importance of scalability in cloud computing infrastructure.
+generate exam question,discuss the role of elasticity in cloud resource management.
+generate exam question,explain how cloud computing enables dynamic resource allocation.
+generate exam question,discuss the advantages of scalable cloud infrastructure.
+generate exam question,explain the role of monitoring tools in managing cloud workloads.
+generate exam question,discuss the importance of cloud resource provisioning.
+generate exam question,explain the concept of cloud orchestration and its benefits.
+generate exam question,discuss the role of traffic management in cloud computing.
+generate exam question,explain how containerization improves resource utilization in cloud environments.
+generate exam question,discuss the role of kubernetes in managing containerized cloud applications.
+generate exam question,explain the importance of distributed systems in cloud computing.
+generate exam question,discuss the benefits of distributed cloud architecture.
+generate exam question,explain the concept of edge computing and its relation to cloud computing.
+generate exam question,discuss the advantages of using edge computing with cloud systems.
+generate exam question,explain the importance of redundancy in cloud infrastructure.
+generate exam question,discuss the role of replication in ensuring data availability in cloud systems.
+generate exam question,explain the difference between synchronous and asynchronous replication in cloud storage.
+generate exam question,discuss how fault tolerance improves reliability in cloud computing.
+generate exam question,explain the concept of service orchestration in cloud platforms.
+generate exam question,explain how cloud computing supports big data processing.
+generate exam question,discuss the role of cloud computing in modern enterprise it infrastructure.
+generate exam question,explain the benefits of cloud computing for startups and small businesses.
+generate exam question,discuss the role of artificial intelligence in optimizing cloud resources.
+generate exam question,explain the impact of cloud computing on digital transformation.
+generate exam question,discuss the importance of cloud security in multi-tenant environments.
+generate exam question,explain the role of encryption in protecting cloud data.
+generate exam question,discuss the challenges of privacy protection in cloud computing.
+generate exam question,explain the importance of compliance and governance in cloud environments.
