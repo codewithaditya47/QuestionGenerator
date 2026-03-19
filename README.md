@@ -17,7 +17,7 @@ Python 3.8+
 pip
 
 Installation
-bashgit clone https://github.com/codewithaditya47/<repo-name>.git
+bash git clone https://github.com/codewithaditya47/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
 
